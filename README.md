@@ -1,6 +1,9 @@
-<h1 align = "center"> CONVERSOR DE MONEDAS </h1>
-<img src="https://github.com/user-attachments/assets/e48df976-9de7-423c-b941-5e489fa5cbcc" width="20%">
-<h2>Implementacion challenge amigo secreto - Alura</h2>
+<header>
+  <h1 align = "center" width="70%"> CONVERSOR DE MONEDAS </h1>
+  <img src="https://github.com/user-attachments/assets/e48df976-9de7-423c-b941-5e489fa5cbcc" width="10%">
+</header>
+<h2>Implementación challenge conversor de monedas - Alura</h2>
+![Badge FINISHED](https://img.shields.io/badge/STATUS-FINISHED-YELLOW?style=flat-square)
 
 ## Indice
 * [Titulo e imagen de portada](#Titulo-e-imagen-de-portada)
@@ -43,3 +46,4 @@ Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 
 ## Conclusiones
 Se  agreago funcionalidades adicionales a lo solicitado como mostrar la lista actual en pantalla. 
+
