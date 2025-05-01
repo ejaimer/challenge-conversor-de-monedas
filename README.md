@@ -1,6 +1,6 @@
 <h1 align = "center"> CONVERSOR DE MONEDAS </h1>
 <h2>Implementacion challenge amigo secreto - Alura</h2>
-![imagen_conversor _de_monedas](https://github.com/user-attachments/assets/9ecd08fd-f4e0-4ad8-8ebb-74564fa4d355)
+![imagen_conversor _de_monedas](https://github.com/user-attachments/assets/9ecd08fd-f4e0-4ad8-8ebb-74564fa4d355.png)
 
 
 ## Indice
