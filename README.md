@@ -58,13 +58,16 @@ Si deseas puedes acceder al proyecto a traves del siguinete enlace:
   https://github.com/ejaimer/challenge-conversor-de-monedas/tree/main/src/com/edward
 
 ## ✔️ Tecnologias utilizadas
-- Java Script
-- HTML
+- Java
+- Maven
+- ExchangeRate-API
 
 ## Personas-Desarrolladores del proyecto
 | [<img src="https://avatars.githubusercontent.com/u/70885445?s=400&u=6cbe5aa76688201740b9ae2cafbf789ab55bc533&v=4" width=115><br><sub>Edward Jaime Ricra</sub>](https://github.com/ejaimer) |
 | :---: | 
 
 ## Conclusiones
-Se  agreago funcionalidades adicionales a lo solicitado como mostrar la lista actual en pantalla. 
+- Se utilizo 3 clases Concretas : MenuCoversor,ConusltaTasa,RegistroCambiosMoneda para poder modelar la funcionalidad de nuestro programa.
+- Se una clase Record,TasaDeCambio , esta última para poder registar los valores de cambios obtenidos de la API Exchange.
+
 
