@@ -55,6 +55,7 @@ Culminado
 ## 🔗Acceso al proyecto 
 Si deseas puedes acceder al proyecto a traves del siguinete enlace:
 
+  https://github.com/ejaimer/challenge-conversor-de-monedas/tree/main/src/com/edward
 
 ## ✔️ Tecnologias utilizadas
 - Java Script
