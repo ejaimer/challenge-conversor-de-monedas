@@ -3,6 +3,7 @@
   <img src="https://github.com/user-attachments/assets/e48df976-9de7-423c-b941-5e489fa5cbcc" width="10%">
 </header>
 <h2>Implementación challenge conversor de monedas - Alura</h2>
+
 ![Badge finished](https://img.shields.io/badge/STATUS-FINISHED-GREEN)
 
 ## Indice
